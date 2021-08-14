@@ -1,0 +1,15 @@
+{
+  "name": "image-filter-starter-project",
+  "version": "1.0.0",
+  "description": "Udacity Cloud Developer Project - Course 2 - Image Filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Antonette Caldwell",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
